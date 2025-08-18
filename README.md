@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I’m Varun Shelke  
 
-<!--
-**VarunShelke/VarunShelke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** with 4+ years of experience building **scalable backend systems, cloud-native infrastructure, and AI-powered applications**.  
 
-Here are some ideas to get you started:
+Currently, I’m pursuing my **MS in Information Science** at the **University of Pittsburgh** (GPA: **3.89**) with a concentration in **Database & Web Systems**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Expertise  
+
+### 🖥️ Backend Development  
+- Java | Python | Node.js  
+- Spring Boot | FastAPI  
+
+### ☁️ Cloud & AI  
+- AWS (Lambda, CDK, Bedrock)  
+- Serverless Architectures  
+- AI/ML Pipelines  
+
+### 🗄️ Databases  
+- DynamoDB | MySQL | MongoDB  
+- Redis | Aurora  
+
+### 🌐 Frontend & Full-Stack  
+- React.js  
+- API Integrations  
+- Authentication & Security Best Practices  
+
+---
+
+## 🌟 What I Love  
+- Designing **production-grade AI/LLM systems** that integrate seamlessly into real-world workflows  
+- Building **data-driven platforms** to enhance decision-making with automation & analytics  
+- Optimizing systems for **scalability, cost efficiency, and reliability**  
+
+---
+
+## 📌 Current Focus  
+- 🏥 AI-powered healthcare communication tools  
+- ☁️ Cloud-native infrastructure with **AWS Bedrock + serverless compute**  
+- ⚡ Full-stack applications blending **robust backends with modern React frontends**  
+
+---
+
+## 🔗 Let’s Connect  
+- 🌍 [Portfolio](https://www.varunshelke.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vashelke/)
+
+---
+✨ Always exploring the intersection of **AI, cloud, and scalable systems** ✨
