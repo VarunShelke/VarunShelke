@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Varun Shelke
 
-I’m a software engineer specializing in building scalable, high-performance backend systems that power exceptional digital experiences. Currently, I’m focused on building AI powered open source Health Sciences and Sports Analytics solutions at **AWS Cloud Innovation Center**.
+I’m a software developer passionate about building impactful digital experiences. My journey into software development began in college when I started experimenting with Java and Spring Boot to create small web applications. Over time, curiosity turned into a career, and I’ve now spent over five years working across enterprise-level platforms and innovative projects.
+
+Fast-forward to today, and I’ve had the privilege of working at Nagarro, and Cognizant Consulting. My main focus these days is building open-source AI Powered Health Sciences and Sports Analytics Solutions at **AWS Cloud Innovation Center**.
+
+Recently, I’ve worked on the **Diving Analytics Platform** - An AI-powered platform that streamlines the analysis of diving training data. Leveraging modern large language models (LLMs), it transforms unstructured training notes into structured, actionable insights. Powered by AWS, leveraging Python and TypeScript to build scalable, high-performance applications.
 
 ---
 
